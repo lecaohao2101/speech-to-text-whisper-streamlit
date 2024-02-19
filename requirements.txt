@@ -1,0 +1,6 @@
+streamlit~=1.31.1
+audio-recorder-streamlit
+openai==0.28
+python-dotenv~=1.0.1
+pysrt~=1.1.2
+googletrans~=4.0.0rc1
